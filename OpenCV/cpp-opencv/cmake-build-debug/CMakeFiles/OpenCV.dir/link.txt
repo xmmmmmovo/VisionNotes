@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/OpenCV.dir/main.cpp.o  -o OpenCV 

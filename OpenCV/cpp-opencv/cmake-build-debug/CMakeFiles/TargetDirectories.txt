@@ -1,3 +1,0 @@
-/tmp/tmp.uMrwNj6q30/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/tmp/tmp.uMrwNj6q30/cmake-build-debug/CMakeFiles/OpenCV.dir
-/tmp/tmp.uMrwNj6q30/cmake-build-debug/CMakeFiles/edit_cache.dir
