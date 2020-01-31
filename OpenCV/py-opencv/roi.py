@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('jp.png')
+img = cv2.imread('lena.jpg')
 
 b = img[:, :, 2]
 cv2.imshow('blue', b)
