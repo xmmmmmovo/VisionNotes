@@ -8,6 +8,7 @@ img2 = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
 # 显示不正确的图
 plt.subplot(121), plt.imshow(img)
+plt.xticks([]), plt.yticks([])  # 隐藏x和y轴
 
 # 显示正确的图
 plt.subplot(122)
